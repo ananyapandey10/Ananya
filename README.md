@@ -1,4 +1,5 @@
 # software engineer
 This is my first Git Repository
 <br>
-Author- Ananya (me)
+Author- Ananya Pandey
+
